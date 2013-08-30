@@ -13,7 +13,7 @@
 * Dublin
 * Glasgow
 * London
-* Newry? http://thenextweb.com/insider/2012/02/11/meet-the-woman-who-wants-to-turn-a-small-northern-ireland-city-into-a-major-startup-hub/
+* [Newry?](http://thenextweb.com/insider/2012/02/11/meet-the-woman-who-wants-to-turn-a-small-northern-ireland-city-into-a-major-startup-hub/)
 * Tel Aviv
 * Vancouver
 * Tokyo
